@@ -2,7 +2,7 @@ import socket
 import json
 
 HOST = "0.0.0.0"
-PORT = 5000
+PORT =  ""
 
 def heavy_task(start, end):
     result = 0

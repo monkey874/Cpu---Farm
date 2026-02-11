@@ -7,7 +7,7 @@ WORKERS = [
     "",
 ]
 
-PORT = 5000
+PORT = ""
 TOTAL_WORK = 50_000_000
 CHUNK = TOTAL_WORK // len(WORKERS)
 
